@@ -1,4 +1,4 @@
-var arr = [55,11,21,41,55,55]
+var arr = [11,56,21,41,56,56]
 console.log(arr);
-console.log(arr.lastIndexOf(55,3));
+console.log(arr.lastIndexOf(54,3));
 console.log(arr);
